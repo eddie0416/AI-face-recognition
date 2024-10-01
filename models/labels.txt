@@ -1,0 +1,11 @@
+0 nobody
+1 meteor
+2 VE
+3 Naninu
+4 Meng
+5 Kuan
+6 Hajimi
+7 Edd
+8 dog123
+9 Bear
+10 Teacher
